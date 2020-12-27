@@ -1,0 +1,12 @@
+.active {
+    border-bottom: 1px solid #fff;
+  }
+
+.navbar-brand{
+  font-family: 'Redressed', cursive;
+  font-size: 30px;
+}
+
+nav{
+  background-color: black;
+}
